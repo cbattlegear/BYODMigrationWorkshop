@@ -1,9 +1,22 @@
 ﻿# BYOD Migration Workshop
 
-Test Test Test
+Prerequisites 
 
-Seeing where this shows up
+## Credentials: 
 
-## TEST!
+**Azure Subscription:**  
+* Contributor or Owner permissions. 
+* Permission to register Azure Active Directory Apps.
 
-### Test of the emergency broadcast system
+**Windows VM:** 
+*Local or domain user account with administrator privileges. 
+SQL Servers: 
+SQL Sysadmin role.
+Hypervisor level permissions
+Physical
+Hyper-V
+VMware
+
+
+
+
