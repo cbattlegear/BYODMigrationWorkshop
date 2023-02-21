@@ -5,8 +5,8 @@ Prerequisites
 ## Credentials: 
 
 **Azure Subscription:**  
-* Contributor or Owner permissions. 
-* Permission to register Azure Active Directory Apps.
+* [Contributor or Owner permissions.](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal-subscription-admin) 
+* [Permission to register Azure Active Directory Apps.](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#prerequisites)
 
 **Windows VM:** 
 * Local or domain user account with administrator privileges. 
