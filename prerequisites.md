@@ -4,8 +4,6 @@ title: "Prerequisites"
 permalink: /prereqs
 ---
 
-#Prerequisites 
-
 ## Credentials: 
 
 **Azure Subscription:**  

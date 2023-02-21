@@ -4,8 +4,6 @@ title: "Agenda"
 permalink: /agenda
 ---
 
-# Agenda Details
-
 ## Phase one: Pre-engagement 
 * Verify SQL Server Instance/DB meets in-scope requirements. 
 
