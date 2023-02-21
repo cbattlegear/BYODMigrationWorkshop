@@ -31,7 +31,7 @@ Prerequisites
 * [VMware](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware#prerequisites)
 
 
-#Agend Details
+# Agenda Details
 
 ## Phase one: Pre-engagement 
 * Verify SQL Server Instance/DB meets in-scope requirements. 
