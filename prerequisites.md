@@ -1,3 +1,7 @@
+layout: page
+title: "Prerequisites"
+permalink: /prereqs
+
 #Prerequisites 
 
 ## Credentials: 

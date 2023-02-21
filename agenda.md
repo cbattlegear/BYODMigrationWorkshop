@@ -1,3 +1,7 @@
+layout: page
+title: "Agenda"
+permalink: /agenda
+
 # Agenda Details
 
 ## Phase one: Pre-engagement 
