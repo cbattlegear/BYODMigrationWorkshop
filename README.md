@@ -15,13 +15,12 @@ Prerequisites
 * [SQL Sysadmin role.](https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-addsrvrolemember-transact-sql?view=sql-server-2016)
 
 **Hypervisor level permissions**
-* Physical
 * Hyper-V
 * VMware
 
 
 ## Networking
-* Site-to-site VPN or ExpressRoute  (On-premises to Azure)
+* [Site-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) or [ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction)  (On-premises to Azure)
 
 ## VM to run Azure Migrate Appliance :
 * [Physical Server](https://learn.microsoft.com/en-us/azure/migrate/tutorial-discover-physical#prerequisites)
