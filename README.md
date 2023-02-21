@@ -12,7 +12,7 @@ Prerequisites
 * Local or domain user account with administrator privileges. 
 
 **SQL Servers:**
-* SQL Sysadmin role.
+* [SQL Sysadmin role.](https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-addsrvrolemember-transact-sql?view=sql-server-2016)
 
 **Hypervisor level permissions**
 * Physical
