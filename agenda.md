@@ -23,7 +23,7 @@ permalink: /agenda
 * Complete Phase 3 prior to day 2 
 
 ## Phase three: Provision SQL MI infrastructure. 
-* Networking. 
+* [Networking.](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview?view=azuresql&tabs=current#network-requirements) 
 * [Azure SQL MI.](https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql) 
 
 ## Phase four: Review SQL Assessment report (Day 2) 
