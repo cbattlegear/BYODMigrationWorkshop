@@ -18,7 +18,7 @@ permalink: /prereqs
 
 **Hypervisor level permissions**
 * [Hyper-V](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-hyper-v#hyper-v-host-requirements)
-* [VMware](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware#vmware-requirements)
+* [VMware](https://learn.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware#vmware-requirements) 
 
 ## Networking
 * [Site-to-site VPN](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) or [ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction)  (On-premises to Azure)
